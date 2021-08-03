@@ -1,0 +1,15 @@
+body{
+	background-color: grey;
+}
+nav{
+	size: 200%;
+}
+#imgH{
+	background-image: url(nav.jpg);
+	}
+a{
+	color: green;
+}
+.latest{
+	background-color: rgb(100,34,67);
+}
